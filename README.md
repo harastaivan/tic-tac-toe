@@ -1,3 +1,7 @@
+# Tic Tac Toe
+
+This repository was primarily made for learning basics of React and npm as well.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
